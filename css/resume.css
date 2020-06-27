@@ -21,7 +21,7 @@ h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #343a40; }
 
 h1 {
